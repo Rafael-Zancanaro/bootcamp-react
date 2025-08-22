@@ -1,2 +1,2 @@
 # bootcamp-react
-Repositório criado com intuito de aprendizagem em react
+Repositório criado com intuito de aprendizagem em java script
